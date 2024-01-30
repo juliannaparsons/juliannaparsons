@@ -4,6 +4,8 @@ Google Data Analytics Professionally Certified
 Lifelong Learner
 Dessert Enthusiast
 
+Looking to collaborate on Python/R/SQL data analysis projects!
+
 
 <!---
 juliannaparsons/juliannaparsons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
